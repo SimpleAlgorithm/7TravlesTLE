@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<map name="test">
+		<textbox poschr="up arrow" x="64" y="64" text="prueba 1"/>
+		<textbox poschr="up arrow" x="48" y="256" text="prueba 2"/>
+	</map>
+	<map name="petrafinal">
+		<textbox poschr="up arrow" x="192" y="176" text="Petra (Jordania): Es una ciudad construída en piedra, de allí su nombre.-Uno de sus elementos más destacados es el sistema de conducción hidráulica que-abastecía de agua potable a la ciudad. En su época de mayor esplendor llegaron a-vivir en ella en torno a 20.000 y 30.000 personas."/>
+		<textbox poschr="up arrow" x="208" y="176" text="Petra (Jordania): Es una ciudad construída en piedra, de allí su nombre.-Uno de sus elementos más destacados es el sistema de conducción hidráulica que-abastecía de agua potable a la ciudad. En su época de mayor esplendor llegaron a-vivir en ella en torno a 20.000 y 30.000 personas."/>
+	</map>
+	<map name="muralla">
+		<textbox poschr="up arrow" x="448" y="432" text="La Gran Muralla (China): Fue erigida por el emperador Qin con la intención de unir-los diferentes puntos de defensa de China y crear una barrera efectiva contra-la invasión mongola. Se construyó entre el siglo V a.C. y el año 1368.-Tiene una longitud de 6.700 kilómetros y abarca siete provincias."/>
+		<textbox poschr="up arrow" x="464" y="432" text="La Gran Muralla (China): Fue erigida por el emperador Qin con la intención de unir-los diferentes puntos de defensa de China y crear una barrera efectiva contra-la invasión mongola. Se construyó entre el siglo V a.C. y el año 1368.-Tiene una longitud de 6.700 kilómetros y abarca siete provincias."/>
+	</map>
+	<map name="taj_mahal">
+		<textbox poschr="up arrow" x="96" y="176" text="Taj Mahal (India): Se trata de un inmenso mausoleo construído por Shah Jahan,-el quinto emperador mongol musulmán, en memoria de su esposa, la princesa-Mumtaz Mahal, muerta en el parto de su decimocuarto hijo. Fue erigido entre-los años 1631 y 1648, y en él trabajaron 20.000 personas."/>
+		<textbox poschr="up arrow" x="112" y="176" text="Taj Mahal (India): Se trata de un inmenso mausoleo construído por Shah Jahan,-el quinto emperador mongol musulmán, en memoria de su esposa, la princesa-Mumtaz Mahal, muerta en el parto de su decimocuarto hijo. Fue erigido entre-los años 1631 y 1648, y en él trabajaron 20.000 personas."/>
+	</map>
+	<map name="coliseo">
+		<textbox poschr="up arrow" x="256" y="336" text="El Coliseo de Roma (Italia): Su verdadero nombre es Anfiteatro Flavio. Se piensa que-la denominación por la que es más conocido deriva de una estatua cercana de-dimensiones colosales dedicada al emperador Nerón.-Su construcción empezó en el año 72 d.C.-Por orden de Vespasiano y se inauguró en el 80, bajo el mandato de Tito."/>
+		<textbox poschr="up arrow" x="272" y="336" text="El Coliseo de Roma (Italia): Su verdadero nombre es Anfiteatro Flavio. Se piensa que-la denominación por la que es más conocido deriva de una estatua cercana de-dimensiones colosales dedicada al emperador Nerón.-Su construcción empezó en el año 72 d.C.-Por orden de Vespasiano y se inauguró en el 80, bajo el mandato de Tito."/>
+	</map>
+	<map name="itza">
+		<textbox poschr="up arrow" x="464" y="400" text="Chichén Itzá (México): Su nombre significa (en la orilla del pozo de los Itzáes).-Fue el centro político y económico de la civilización maya entre los años 750-y 1.200 d.C., aunque se estima que fue construída entre los años 435 y 455 d.C."/>
+		<textbox poschr="up arrow" x="480" y="400" text="Chichén Itzá (México): Su nombre significa (en la orilla del pozo de los Itzáes).-Fue el centro político y económico de la civilización maya entre los años 750-y 1.200 d.C., aunque se estima que fue construída entre los años 435 y 455 d.C."/>
+	</map>
+	<map name="cristo">
+		<textbox poschr="up arrow" x="416" y="288" text="Cristo Redentor(Brasil): Siglo XX, 38 metros  de altura. La construcción-de cemento armado, de más de 1.000 toneladas, combina ingeniería, arquitectura-y escultura, y tiene entre sus logros el hecho de que nadie muriera-en accidente durante las obras."/>
+	</map>
+	<map name="machu">
+		<textbox poschr="up arrow" x="48" y="128" text="Machu Picchu (Perú): Se sitúa a una altura de 2.350 metros por encima del nivel del mar-y fue construido por los incas en el siglo XV. Se trata de un santuario de rango superior.-Es un conjunto de palacios y templos, algunos de los cuales estaban recubiertos con-oro, que llegó a albergar hasta 750 personas.-En 1911 fue redescubierta por el explorador americano."/>
+		<textbox poschr="up arrow" x="64" y="128" text="Machu Picchu (Perú): Se sitúa a una altura de 2.350 metros por encima del nivel del mar-y fue construido por los incas en el siglo XV. Se trata de un santuario de rango superior.-Es un conjunto de palacios y templos, algunos de los cuales estaban recubiertos con-oro, que llegó a albergar hasta 750 personas.-En 1911 fue redescubierta por el explorador americano."/>
+	</map>
+</game>
